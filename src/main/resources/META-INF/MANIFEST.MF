@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: slf4j-api-1.7.13.jar jackson-core-2.6.4.jar org.eclipse.pa
- ho.client.mqttv3-1.0.2.jar cloudio-endpoint-java-0.1.1.jar
-Main-Class: ch.hevs.vleiot.IslandOnCloudTHING.IslandOnCloudThingApplic
- ation
-

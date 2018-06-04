@@ -15,7 +15,7 @@ public class IslandOnCloudThingApplication {
 		try {
 			final CloudioEndpoint endpoint = new CloudioEndpoint("StuderInnotec_1");
 			final IoBox box = endpoint.addNode("io", IoBox.class);
-			final JIoBoxFrame frame = new JIoBoxFrame(1);
+			//final JIoBoxFrame frame = new JIoBoxFrame(1);
 			Scanner scan = new Scanner(System.in);
 			String text;
 
